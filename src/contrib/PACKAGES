@@ -1,0 +1,6 @@
+Package: rTubeDB
+Version: 1.4
+Imports: httr, ISOweek
+License: GPL-3
+MD5sum: f37b6ea5b9591914db77aaebbdade92e
+NeedsCompilation: no
