@@ -13,3 +13,10 @@ Imports: httr, ISOweek
 License: GPL-3
 MD5sum: 86c1a24f05858ef10f3b04723a712f11
 NeedsCompilation: no
+
+Package: rTubeDB
+Version: 1.4
+Imports: httr, ISOweek
+License: GPL-3
+MD5sum: b8e78bf97a8aefc86013b6b47af6da2e
+NeedsCompilation: no
